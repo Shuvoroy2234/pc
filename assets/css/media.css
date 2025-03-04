@@ -1,0 +1,104 @@
+/* Extra Extra Small Device */
+@media (max-width: 320px){
+    .pc_compant {
+      width: 115%;
+  }
+    .special_img {
+      width: 115%;
+  }
+  .intel_info p {
+    font-size: 14px; 
+  }
+  .price {
+    font-size: 14px;  
+  }
+  .actual-price {
+    margin-left: 10px;
+    font-size: 14px;
+  }
+  .product_box {
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+  }
+  .i_img img {
+    height: 125px;
+  }
+  .footer_last h4 {
+    font-size: 12px;
+}
+    
+  }
+  @media (min-width: 320px){
+    
+  }
+  /*Extra small devices (portrait phones, less than 576px)*/
+  @media (max-width: 575.98px) {
+    
+  }
+
+     
+    /* Small devices (landscape phones, 576px and up)*/
+    @media (min-width: 576px) and (max-width: 767.98px) {
+      
+      
+    }
+    
+    /* Medium devices (tablets, 768px and up)*/
+    @media (min-width: 768px) and (max-width: 991.98px) {
+      .intel_info p {
+        font-size: 12px; 
+    }
+      .price {
+        font-size: 12px;  
+    }
+      .actual-price {
+        margin-left: 7px;
+        font-size: 12px;
+    }
+    .product_box {
+      height: 150px;
+      margin: 0px;
+      padding: 0px;
+    }
+    .i_img img {
+      height: 100px;
+    }
+
+    .item {
+      padding: 3px;
+      margin-right: 10px;
+    }
+      
+    }
+    @media (max-width: 992px){
+        
+    }
+    /* Large devices (desktops, 992px and up)*/
+    @media (min-width: 992px) {
+      .item {
+        margin-right: 35px;
+    }
+  
+    }
+    @media (min-width: 992px) and (max-width: 1199.99px){
+      
+    }
+    /* Extra Large devices (desktops, 992px and up)*/
+    @media (min-width: 1200px) and (max-width: 1399.98px) {
+      
+    }
+    
+    /* Extra Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1400px) {
+      
+    }
+    
+    /* Extra Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1600px) {
+      .container-xl{
+        max-width: 1480px;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
